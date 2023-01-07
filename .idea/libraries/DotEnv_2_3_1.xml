@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DotEnv-2.3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/assets/DotEnv-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
